@@ -1,6 +1,6 @@
 /*
  
-//Завдання 1
+//Task 1
 
 var builder = WebApplication.CreateBuilder();
 
@@ -33,7 +33,7 @@ public class Company
 }
 */
 
-//Завдання 2
+//Task 2
 
 var builder = WebApplication.CreateBuilder();
 
